@@ -1,14 +1,17 @@
 {
   "expo": {
     "name": "MovieFlix_Assignment",
-    "slug": "MovieFlix_Assignment",
+    "slug": "movieflixassignment",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
     "ios": {
       "bundleIdentifier": "com.arup1302.movieflixassignment",
-      "supportsTablet": true
+      "supportsTablet": true,
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -27,6 +30,12 @@
       "expo-image",
       "expo-status-bar",
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "4cf4abe4-fc30-45a6-ad67-20d8f116bab7"
+      }
+    },
+    "owner": "arup_1302"
   }
 }
