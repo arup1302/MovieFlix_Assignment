@@ -222,7 +222,7 @@ Before submission, add one of the following to this README:
 
 ## APK Download
 
-- EAS Android build: [Download APK](https://expo.dev/accounts/arup_1302/projects/movieflixassignment/builds/0c604a66-75e4-4736-88e7-24cb09de8062)
+- EAS Android build: [Download APK](https://expo.dev/artifacts/eas/1M5Pi44I9KYSBc8d9AjNHZosnO6OnWuDj2F6sPBD4kA.apk)
 
 
 ## Main Navigation
