@@ -220,6 +220,11 @@ Before submission, add one of the following to this README:
 ### Profile
 ![Profile Screen](src/docs/screenshots/profile.jpeg)
 
+## APK Download
+
+- EAS Android build: [Download APK](https://expo.dev/accounts/arup_1302/projects/movieflixassignment/builds/0c604a66-75e4-4736-88e7-24cb09de8062)
+
+
 ## Main Navigation
 
 - Root stack:
