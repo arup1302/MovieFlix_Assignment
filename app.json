@@ -5,8 +5,9 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "automatic",
     "ios": {
+      "bundleIdentifier": "com.arup1302.movieflixassignment",
       "supportsTablet": true
     },
     "android": {
@@ -17,7 +18,7 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.anonymous.MovieFlix_Assignment"
+      "package": "com.arup1302.movieflixassignment"
     },
     "web": {
       "favicon": "./assets/favicon.png"
